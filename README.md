@@ -2,7 +2,7 @@
 
 This project mainly focuses on Arabic text summarization using transformers.
 After that we use the summary result with its original text to be
-evaluated through arabic classification and clustering problems 
+evaluated through arabic classification and clustering algorithms 
 to check whether the meaning of the summary matches the original text.
 
 The classification problem is article classification between 5 topics context.</br>
